@@ -1,0 +1,46 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 65px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input{
+    width: 200px;
+    height:25px;
+    background-color: rgba(0,0,0,0.75);
+    color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px 145px 10px 90px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.loginbox{
+    margin: 150px 200px 200px 200px;
+    height: 400px;
+    width: 90%;
+    max-width: 400px;
+    padding: 20px;
+    background: rgb(203, 117, 117);
+    border: 2px solid black;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+button{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow:0px 0px 0px 2px rgb(178, 196, 196);
+    margin: 60px 145px 50px 120px;
+
+}
