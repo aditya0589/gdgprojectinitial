@@ -1,0 +1,10 @@
+create a database structure using sequelize and mongoose
+
+add data models to the project in the models directory
+
+authentication based login approach
+
+sessions and cookies
+
+ACTIVE : CSS needed for the project
+
